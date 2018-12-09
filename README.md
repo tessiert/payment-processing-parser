@@ -1,4 +1,6 @@
-# Parse a custom protocol format
+## My solution to a coding challenge completed as part of a job application.
+
+# Instructions:  Parse a custom protocol format
 
 Your payment processing application must interface with an old-school mainframe format that we've named "MPS7".
 This means consuming a proprietary binary protocol format that no one on your team is familiar with yet.
