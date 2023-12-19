@@ -1,4 +1,8 @@
-## My solution to a coding challenge
+# My solution to a coding challenge to parse a custom protocol format (Problem statement shown below)
+
+The essence of my solution is to employ the 'unpack' method of the 'struct' package to parse an input binary file using
+appropriate format codes and then populate a Pandas dataframe with the results.  Once this is done, the list of requested
+transactions is processed based on type (one custom function per transaction type) and, finally, reports are generated.
 
 # Instructions:  Parse a custom protocol format
 
